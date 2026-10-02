@@ -1,10 +1,10 @@
-package com.natamus.edibles;
+package com.serilum.edibles;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
-import com.natamus.edibles.events.EdibleEvent;
-import com.natamus.edibles.util.Reference;
+import com.serilum.edibles.events.EdibleEvent;
+import com.serilum.edibles.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.player.UseItemCallback;
 import net.minecraft.core.BlockPos;

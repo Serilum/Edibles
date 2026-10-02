@@ -1,6 +1,6 @@
-package com.natamus.edibles.forge.events;
+package com.serilum.edibles.forge.events;
 
-import com.natamus.edibles.events.EdibleEvent;
+import com.serilum.edibles.events.EdibleEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 

@@ -1,7 +1,7 @@
-package com.natamus.edibles.config;
+package com.serilum.edibles.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.edibles.util.Reference;
+import com.serilum.edibles.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

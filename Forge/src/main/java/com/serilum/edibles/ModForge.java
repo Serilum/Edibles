@@ -1,10 +1,10 @@
-package com.natamus.edibles;
+package com.serilum.edibles;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.edibles.forge.config.IntegrateForgeConfig;
-import com.natamus.edibles.forge.events.ForgeEdibleEvent;
-import com.natamus.edibles.util.Reference;
+import com.serilum.edibles.forge.config.IntegrateForgeConfig;
+import com.serilum.edibles.forge.events.ForgeEdibleEvent;
+import com.serilum.edibles.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeEdibleEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeEdibleEvent.class);
 	}
 
 	private static void setGlobalConstants() {

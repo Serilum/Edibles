@@ -1,7 +1,7 @@
-package com.natamus.edibles.forge.config;
+package com.serilum.edibles.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.edibles.util.Reference;
+import com.serilum.edibles.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

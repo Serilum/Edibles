@@ -1,8 +1,8 @@
-package com.natamus.edibles.events;
+package com.serilum.edibles.events;
 
 import com.natamus.collective.functions.WorldFunctions;
-import com.natamus.edibles.config.ConfigHandler;
-import com.natamus.edibles.util.Util;
+import com.serilum.edibles.config.ConfigHandler;
+import com.serilum.edibles.util.Util;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.InteractionHand;

@@ -1,7 +1,7 @@
-package com.natamus.edibles.fabric.config;
+package com.serilum.edibles.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.edibles.util.Reference;
+import com.serilum.edibles.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

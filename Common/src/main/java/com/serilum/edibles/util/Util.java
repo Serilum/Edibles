@@ -1,6 +1,6 @@
-package com.natamus.edibles.util;
+package com.serilum.edibles.util;
 
-import com.natamus.edibles.config.ConfigHandler;
+import com.serilum.edibles.config.ConfigHandler;
 
 import java.util.Date;
 import java.util.HashMap;

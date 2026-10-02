@@ -1,6 +1,6 @@
-package com.natamus.edibles;
+package com.serilum.edibles;
 
-import com.natamus.edibles.config.ConfigHandler;
+import com.serilum.edibles.config.ConfigHandler;
 
 public class ModCommon {
 
